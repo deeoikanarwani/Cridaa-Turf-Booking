@@ -1,0 +1,6 @@
+[
+  { "id": 1, "time": "06:00 - 07:00", "isBooked": false, "type": "Off-peak" },
+  { "id": 2, "time": "07:00 - 08:00", "isBooked": false, "type": "Peak" },
+  { "id": 3, "time": "08:00 - 09:00", "isBooked": false, "type": "Peak" },
+  { "id": 4, "time": "09:00 - 10:00", "isBooked": false, "type": "Off-peak" }
+]
